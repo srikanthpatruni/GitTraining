@@ -1,3 +1,3 @@
 <?php>
-echo "Git training";
+echo "Git training 25";
 ?>
